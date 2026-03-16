@@ -40,6 +40,6 @@ Scikit-learn
 Matplotlib
 
 ## Author
-Mitali Sanjay Khapekar
-Rahul KamalSingh Bisht
-Prachi Adhiraj
+Mitali Sanjay Khapekar, 
+ Rahul KamalSingh Bisht, 
+ Prachi Adhiraj
